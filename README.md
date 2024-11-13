@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0rtum&label=Profile%20views&color=0e75b6&style=flat" alt="m0rtum" /> </p>
 
-**About me:**
+<h1>**About me:**</h1>
 
 <h3 align="center">Enthusiastic developer from Russia</h3>
 <h3 align="center">I am engaged in web development and desktop development</h3>
