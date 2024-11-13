@@ -45,6 +45,6 @@
 
 <h1>Stats:</h1>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m0rtum/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rtum&layout=donut-vertical)](https://github.com/m0rtum/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m0rtum/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rtum&theme=dark&layout=donut-vertical)](https://github.com/m0rtum/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0rtum&theme=darkhub" alt="m0rtum" /></a> </p>
