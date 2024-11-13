@@ -45,7 +45,7 @@
 
 <h1>Stats:</h1>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m0rtum/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rtum&layout=donut-vertical)](https://github.com/m0rtum/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m0rtum/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rtum&theme=dark&layout=donut-vertical)](https://github.com/m0rtum/github-readme-stats)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/m0rtum/github-readme-stats#gh-light-mode-only)
 
