@@ -36,7 +36,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,azure,c,cs,css,django,dotnet" />
+    <img src="https://skillicons.dev/icons?i=angular,azure,c,cs,css,html,js,nextjs,tailwind,nodejs,react,django,dotnet,docker,fastapi" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode,rust" />
   </a>
 </p>
 
