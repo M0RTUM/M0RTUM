@@ -20,6 +20,18 @@
 
 </div>
 
+<div align="center"> 
+  <a href="mailto:oleg.golkanov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://bugcrowd.com/basota">
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white/>
+  </a>
+  <a href="https://leetcode.com/u/Ywn/">
+     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0rtum&theme=darkhub" alt="m0rtum" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&locale=en" alt="m0rtum" /></p>
