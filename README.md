@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0rtum&label=Profile%20views&color=0e75b6&style=flat" alt="m0rtum" /> </p>
 
+**About me:**
+
 <div align="center">
 
-- 🔭 I’m currently working on **C# based OS**
+  🔭 I’m currently working on **C# based OS**
 
-- 🌱 I’m currently learning **Rust, ReactJS, ASP.NET**
+  🌱 I’m currently learning **Rust, ReactJS, ASP.NET**
 
 </div>
 
