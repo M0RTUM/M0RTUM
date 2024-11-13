@@ -32,6 +32,8 @@
   </a>
 </div>
 
+<h1>About me:</h1>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0rtum&theme=darkhub" alt="m0rtum" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&locale=en" alt="m0rtum" /></p>
