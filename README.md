@@ -6,9 +6,9 @@
 
 **About me:**
 
-<h2 align="center">Enthusiastic developer from Russia</h2>
-<h3 align="center">I am engaged in web development and desktop development</h3>
-<h4 align="center">Main stack - Reactjs, ASP.NET</h4>
+<div align="center">Enthusiastic developer from Russia</div>
+<div align="center">I am engaged in web development and desktop development</div>
+<div align="center">Main stack - Reactjs, ASP.NET</div>
 
 <div align="center">
 
