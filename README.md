@@ -9,6 +9,8 @@
 <div align="center">Enthusiastic developer from Russia</div>
 <div align="center">I am engaged in web development and desktop development</div>
 <div align="center">Main stack - Reactjs, ASP.NET</div>
+<div align="center"></div>
+<div align="center">------------------------------</div>
 
 <div align="center">
 
