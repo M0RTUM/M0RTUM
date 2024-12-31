@@ -44,11 +44,12 @@
 </p>
 
 <h1>Stats:</h1>
-
-<div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m0rtum&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m0rtum&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m0rtum&theme=github_dark" alt=""/>
-</div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0rtum&theme=darkhub" alt="m0rtum" /></a> </p>
+    
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=m0rtum&theme=darkhub" alt="m0rtum" />
+  </a> 
+</p>
