@@ -6,9 +6,9 @@
 
 <h1>About me:</h1>
 
-<h3 align="center">Enthusiastic developer from Russia</h3>
-<h3 align="center">I am engaged in web development and desktop development</h3>
-<h3 align="center">Main stack - Reactjs, ASP.NET</h3>
+<h3 align="center">💻 Fullstack developer 💻</h3>
+<h3 align="center"></h3>
+<h3 align="center">Main stack - React, ASP.NET</h3>
 <div align="center"></div>
 <div align="center">------------------------------</div>
 
@@ -39,13 +39,12 @@
     <img src="https://skillicons.dev/icons?i=angular,azure,c,cs,css,html,js,nextjs,tailwind,nodejs,react,django,dotnet,docker,fastapi" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode,rust,lua" />
+    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode,rust" />
   </a>
 </p>
 
 <h1>Stats:</h1>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m0rtum&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m0rtum/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rtum&theme=dark&layout=donut-vertical)](https://github.com/m0rtum/github-readme-stats#gh-dark-mode-only)
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m0rtum&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m0rtum&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m0rtum&theme=github_dark" alt=""/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0rtum&theme=darkhub" alt="m0rtum" /></a> </p>
