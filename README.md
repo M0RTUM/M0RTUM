@@ -7,14 +7,14 @@
 <h1>About me:</h1>
 
 <h3 align="center">💻 Fullstack developer 💻</h3>
-<h3 align="center"></h3>
+<h3 align="center">Extensive experience in developing medium-sized projects from scratch</h3>
 <h3 align="center">Main stack - React, ASP.NET</h3>
 <div align="center"></div>
 <div align="center">------------------------------</div>
 
 <div align="center">
 
-  🔭 I’m currently working on **C# based OS**
+  🌍 I’m based in Moscow, Russia
 
   🌱 I’m currently learning **Rust, ReactJS, ASP.NET**
 
