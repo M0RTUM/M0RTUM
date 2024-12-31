@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=angular,azure,c,cs,css,html,js,nextjs,tailwind,nodejs,react,django,dotnet,docker,fastapi" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode,rust,go,java,laravel,nestjs,spring,ts" />
+    <img src="https://skillicons.dev/icons?i=figma,flask,git,powershell,py,visualstudio,vscode,rust,go,java,laravel,nestjs,spring,ts,lua" />
   </a>
 </p>
 
